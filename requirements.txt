@@ -1,0 +1,3 @@
+# No external packages needed.
+# turtle, time and random are part of the Python standard library.
+# Python 3.8 or newer is recommended (turtle needs tkinter installed).
